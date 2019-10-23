@@ -1,3 +1,4 @@
 # Tecnologia 
 - Android Studio
 - SDK Oreo
+-Hecho por Herrera Gomez 
